@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- I'm currently a master's student at ECE dept CMU.
+- Before that, I obtained my bachelor's degree in Automation from Huazhong University of Science and Technology, China. 
 <!--
 **haoran-zh/haoran-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
