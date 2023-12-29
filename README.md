@@ -4,7 +4,6 @@
 - (Feb2022-Nov2023) I worked with Prof. Hao Chen at the Hong Kong University of Science and Technology. 1 first-author [paper](https://ieeexplore.ieee.org/document/10230683) published at ISBI 2023.
 - (Apr2023-Jul2023) I exchanged at the Technical University of Munich and worked with Dr. Zhongliang Jiang on a project about 4D artery reconstruction from ultrasound videos. I also traveled to Paris, Zurich, Matterhorn, Vienna, Salzburg, Budapest... during this exchange! 
 - Fun fact: My hometown is Xinxiang, Henan. In Chinese, "Xin" means "New", and "Xiang" means "York" 😄
-- What is HUST? Well, not as famous as Tsinghua or PKU, but it is also a very top university in my home country. Rank 6th in China / 109th in the world by USNews, and 8th in China / 96th in the world by ShanghaiRanking. 
 <!--
 **haoran-zh/haoran-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
