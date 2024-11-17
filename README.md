@@ -1,8 +1,6 @@
 ### Hi there 👋 I am Haoran Zhang. 
-- (Aug2023-May2025) I'm a master's student at the Electrical and Computer Engineering Department, Carnegie Mellon University.
-- (Jun2023) I earned my bachelor's degree in Automation from Huazhong University of Science and Technology (HUST), China.
-- (Feb2022-Nov2023) I worked with Prof. Hao Chen at the Hong Kong University of Science and Technology. 1 first-author [paper](https://ieeexplore.ieee.org/document/10230683) published at ISBI 2023.
-- (Apr2023-Jul2023) I exchanged at the Technical University of Munich and worked with Dr. Zhongliang Jiang on a project about 4D artery reconstruction from ultrasound videos. I also traveled to Paris, Zurich, Matterhorn, Vienna, Salzburg, Budapest... during this exchange! 
+- I'm a master's student at the Electrical and Computer Engineering Department, Carnegie Mellon University.
+
 - Fun fact: My hometown is Xinxiang, Henan. In Chinese, "Xin" means "New", and "Xiang" means "York" 😄
 <!--
 **haoran-zh/haoran-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
