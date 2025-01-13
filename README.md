@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Haoran Zhang. 
-- I'm a master's student at the Electrical and Computer Engineering Department, Carnegie Mellon University.
 
-- Fun fact: My hometown is Xinxiang, Henan. In Chinese, "Xin" means "New", and "Xiang" means "York" 😄
 <!--
 **haoran-zh/haoran-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
